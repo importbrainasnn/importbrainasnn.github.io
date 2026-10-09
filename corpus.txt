@@ -1,0 +1,118 @@
+Ismael Serrano is an engineering student in AI and embedded signal processing.
+Ismael Serrano is based in Toulouse, France.
+Ismael studies at ENSEEIHT, an engineering school of Toulouse INP.
+Ismael is in the IATI-TSE track at ENSEEIHT: AI for information processing and embedded signal processing.
+Ismael will graduate from ENSEEIHT in 2027.
+Ismael wants to apply AI at the core of the signal processing chain.
+Ismael works at the meeting point of radar signal processing and deep learning.
+Ismael built a neural network that reads range-Doppler maps.
+Ismael built a custom PyTorch network that fuses radar and camera data to detect intrusions.
+Ismael built an autonomous lidar drone for indoor mapping.
+Ismael speaks French, Spanish, English and Portuguese.
+Ismael is a native French speaker.
+Ismael is bilingual in Spanish.
+Ismael speaks English at C1 level.
+Ismael speaks Portuguese at A2 level.
+Ismael played competitive football for 13 years.
+Ismael enjoys swimming, cycling, running and surfing.
+Ismael is a member of Robot7, the robotics association of ENSEEIHT.
+Ismael writes Python, MATLAB, SQL, C and C++.
+Ismael uses PyTorch, TensorFlow, Keras and Scikit-learn.
+Ismael uses Git, Docker, Linux and Jupyter.
+Ismael knows NumPy, Pandas and SciPy.
+Ismael studied Kalman filtering and estimation at ENSEEIHT.
+Ismael spent an Erasmus+ semester at Dublin City University in Ireland.
+Ismael studied machine learning and deep learning in Dublin, with every course taught in English.
+Ismael is also studying for a university diploma in Data Analytics at Paris 1 Pantheon-Sorbonne.
+Ismael started with two years of CUPGE at Sorbonne University, from 2022 to 2024.
+Ismael holds the French national student-entrepreneur status for his drone project.
+He is an engineering student in AI and embedded signal processing.
+He is based in Toulouse.
+He wants to apply AI at the core of the signal processing chain.
+He built a custom PyTorch network that fuses radar and camera data to detect intrusions.
+He built an autonomous lidar drone for indoor mapping.
+He speaks French, Spanish, English and Portuguese.
+He writes Python, MATLAB, SQL, C and C++.
+He uses PyTorch, TensorFlow, Keras and Scikit-learn.
+He studied Kalman filtering and estimation at ENSEEIHT.
+He played competitive football for 13 years.
+He enjoys swimming, cycling, running and surfing.
+At EPSI, Ismael worked as an AI and signal processing engineering intern from June to August 2026.
+At EPSI, Ismael built a custom PyTorch network that fuses radar and camera data to detect intrusions.
+At EPSI, he analysed, extracted and preprocessed Doppler radar data and video.
+At EPSI, the radar and the camera were synchronised with an NTP server.
+At EPSI, he detected and tracked targets across radar measurements.
+At EPSI, he projected camera data into the radar bird's-eye view to align the two sensors.
+At EPSI, the network takes range-Doppler maps and camera data as input.
+At EPSI, the architecture was kept lightweight for real-time deployment on a Jetson Orin Nano.
+At EPSI, the system detects intrusions up to 160 m.
+At EPSI, the network strongly reduced false alarms in complex environments.
+EPSI is located in Beauzelle, near Toulouse.
+The internship at EPSI lasted from June to August 2026.
+The EPSI project fuses a mmWave radar and a camera to detect intrusions.
+The EPSI network strongly reduced false alarms in complex environments.
+The radar gives range-Doppler maps and the camera gives images.
+The radar and the camera were synchronised with an NTP server.
+The camera data is projected into the radar bird's-eye view to align the two sensors.
+The network takes range-Doppler maps and camera data as input.
+The network was written in PyTorch.
+The network detects intrusions up to 160 m.
+The network strongly reduced false alarms in complex environments.
+The architecture was kept lightweight for real-time deployment on a Jetson Orin Nano.
+The model targets a Jetson Orin Nano for real-time deployment.
+The parameters and performance were evaluated on a development machine.
+The tracking stage detects and follows targets across radar measurements.
+The fusion stage projects camera data into the radar bird's-eye view.
+The drone is an autonomous lidar drone for indoor mapping.
+The drone processes lidar point clouds to compute its flight commands.
+The drone uses an ESP32 for flight commands and a dedicated board for motor control.
+The drone project ran from 2024 to 2025.
+The goal of the drone is to map a room autonomously.
+The drone project earned Ismael the French national student-entrepreneur status.
+The lidar drone turns point clouds into flight commands.
+His radar work covers mmWave radar, range-Doppler maps, FFT, STFT and Kalman filtering.
+His radar work covers detection and tracking of targets.
+His radar network detects intrusions up to 160 m.
+His signal processing skills are FFT, STFT, Kalman filtering, detection and tracking.
+His deep learning tools are PyTorch, TensorFlow, Keras and Scikit-learn.
+His embedded skills are lightweight architectures, complexity evaluation and the NVIDIA Jetson Orin Nano.
+His languages are French, Spanish, English and Portuguese.
+His programming languages are Python, MATLAB, SQL, C and C++.
+His tools are Git, Docker, Linux and Jupyter.
+His school is ENSEEIHT, in Toulouse.
+His track is IATI-TSE: AI for information processing and embedded signal processing.
+His drone uses an ESP32 for flight commands and a dedicated board for motor control.
+His first internship was in web development at DEV-01 in Bidart, in 2023.
+His first internship lasted two months.
+His interests are football, swimming, cycling, running, surfing and robotics.
+In 2023, Ismael was a web development intern at DEV-01 in Bidart for two months.
+In 2023, he wrote SQL queries and built web interfaces in HTML, CSS and JavaScript.
+In 2023, he worked in a team with Git.
+In 2026, Ismael was an AI and signal processing engineering intern at EPSI.
+In 2026, he built a custom PyTorch network that fuses radar and camera data to detect intrusions.
+In 2027, Ismael will graduate from ENSEEIHT.
+In Dublin, Ismael studied machine learning and deep learning.
+In Dublin, every course was taught in English.
+In Toulouse, Ismael studies AI and embedded signal processing at ENSEEIHT.
+From 2022 to 2024, Ismael studied at Sorbonne University in the CUPGE programme.
+From 2024 to 2027, Ismael studies at ENSEEIHT in the IATI-TSE track.
+From 2024 to 2025, Ismael built an autonomous lidar drone for indoor mapping.
+From 2025 to 2026, Ismael spent an Erasmus+ semester at Dublin City University.
+From 2026 to 2027, Ismael is studying Data Analytics at Paris 1 Pantheon-Sorbonne.
+From June to August 2026, Ismael was an intern at EPSI in Beauzelle.
+The Data Analytics diploma at Paris 1 Pantheon-Sorbonne is run in partnership with Microsoft France.
+Signal processing is where Ismael wants to work.
+Radar and deep learning are the two things Ismael likes to combine.
+Radar processing starts with range-Doppler maps.
+Range-Doppler maps show the distance and the speed of each target.
+Range-Doppler maps are the input of the network Ismael built at EPSI.
+Kalman filtering is used to track targets across radar measurements.
+Kalman filtering and estimation are courses Ismael took at ENSEEIHT.
+PyTorch is the framework Ismael used for the radar and camera fusion network.
+PyTorch is also the framework used to train this small model.
+Deep learning and signal processing are the two sides of his profile.
+Embedded AI means lightweight architectures that run in real time on a Jetson Orin Nano.
+This model is a small transformer trained from scratch.
+This model only knows about a hundred sentences about Ismael.
+This model predicts the next token, one token at a time.
+This model has three layers and four attention heads per layer.
